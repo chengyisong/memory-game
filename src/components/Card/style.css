@@ -1,0 +1,20 @@
+img {
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+
+.card {
+    float: left;
+    margin: 15px;
+    margin-right: 35px;
+    border-radius: 10px;
+    border-color: rgb(255, 153, 0);
+    border-width: 4px;
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0.664);
+}
+
+.card :hover{
+    cursor: pointer;
+}

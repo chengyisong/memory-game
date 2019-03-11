@@ -1,0 +1,22 @@
+#scoreDisplay {
+    font-weight: bold;
+    color: red;
+    margin-left: 30px;
+}
+
+p {
+    font-size: 23px;
+    text-align: center;
+    margin: 10px;
+}
+
+.ins {
+    color: rgb(121, 74, 38);
+    font-size: 20px;
+}
+
+.scoreDisplay {
+    font-family: 'Rammetto One', cursive;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
